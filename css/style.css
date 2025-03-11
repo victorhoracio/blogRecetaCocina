@@ -16,4 +16,6 @@ main{
   width: 250px;
   height: 250px;
   object-fit: cover;
+  aspect-ratio: 1/1;/*Fuerza imagen*/
+  transition: 100 ms;
 }
